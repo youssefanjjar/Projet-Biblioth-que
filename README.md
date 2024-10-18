@@ -24,13 +24,14 @@ Ce projet est un système de gestion de bibliothèque simple implémenté en C. 
 Pour compiler le projet, utilisez la commande suivante :
 
 ```bash
-gcc -o bibliotheque main.c livre.c
+gcc -o bibliotheque main.c livre.c ```
 
 ## Utilisation
 Après compilation, exécutez l'exécutable :
 
 ``` bash
 ./bibliotheque
+```
 
 - Suivez le menu à l'écran pour naviguer à travers les options de gestion de la bibliothèque.
 
