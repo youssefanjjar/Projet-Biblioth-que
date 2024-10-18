@@ -25,3 +25,17 @@ Pour compiler le projet, utilisez la commande suivante :
 
 ```bash
 gcc -o bibliotheque main.c livre.c
+
+## Utilisation
+Après compilation, exécutez l'exécutable :
+
+``` bash
+./bibliotheque
+
+- Suivez le menu à l'écran pour naviguer à travers les options de gestion de la bibliothèque.
+
+## Prérequis
+GCC ou tout compilateur C compatible
+Bibliothèque standard C
+Auteur
+[Anjjar Youssef]
