@@ -24,7 +24,8 @@ Ce projet est un système de gestion de bibliothèque simple implémenté en C. 
 Pour compiler le projet, utilisez la commande suivante :
 
 ```bash
-gcc -o bibliotheque main.c livre.c ```
+gcc -o bibliotheque main.c livre.c
+```
 
 ## Utilisation
 Après compilation, exécutez l'exécutable :
@@ -38,5 +39,5 @@ Après compilation, exécutez l'exécutable :
 ## Prérequis
 GCC ou tout compilateur C compatible
 Bibliothèque standard C
-Auteur
-[Anjjar Youssef]
+## Auteur
+Anjjar Youssef
